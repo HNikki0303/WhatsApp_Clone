@@ -18,11 +18,10 @@ Setup & Installation
   git clone https://github.com/your-username/whatsapp-clone.git
   cd whatsapp-clone
 2. Install dependencies:npm install
-3. Configure Firebase:
+3.  Configure Firebase:
    i). Create a Firebase project at Firebase Console
    ii). Add your Firebase configuration inside firebaseconfig.js
-4.Start the project:
-   npm run dev
+4.Start the project: npm run dev
 
 Future Improvements:
 * Add file sharing (images, documents)
